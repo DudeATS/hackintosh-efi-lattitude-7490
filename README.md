@@ -15,6 +15,7 @@
 ## SMBIOS
 - MacBookPro16,2
 
-# Extra Info
+## Extra Info
 This is an orilla Prebuilt EFI, modified for Dell Latitude 7490 (2018) Laptop. As far as i've used this EFI, everything works perfectly fine. As for the BIOS Settings, follow the specific settings mentioned in [dortania's guide](https://dortania.github.io/OpenCore-Install-Guide/). 
-**As mentioned earlier, it's a modified prebuilt, proceed with caution, i won't be resposible for any damage whatsoever**
+
+*As mentioned earlier, this is a modified prebuilt. Proceed with caution, i won't be resposible for any damage whatsoever*
